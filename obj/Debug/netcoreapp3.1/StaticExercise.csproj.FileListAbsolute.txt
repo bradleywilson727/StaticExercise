@@ -1,0 +1,13 @@
+/Users/bradleywilson/Desktop/csharp27/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.deps.json
+/Users/bradleywilson/Desktop/csharp27/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.runtimeconfig.json
+/Users/bradleywilson/Desktop/csharp27/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.runtimeconfig.dev.json
+/Users/bradleywilson/Desktop/csharp27/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.dll
+/Users/bradleywilson/Desktop/csharp27/StaticExercise/StaticExercise/bin/Debug/netcoreapp3.1/StaticExercise.pdb
+/Users/bradleywilson/Desktop/csharp27/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.csproj.AssemblyReference.cache
+/Users/bradleywilson/Desktop/csharp27/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradleywilson/Desktop/csharp27/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.AssemblyInfoInputs.cache
+/Users/bradleywilson/Desktop/csharp27/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.AssemblyInfo.cs
+/Users/bradleywilson/Desktop/csharp27/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/bradleywilson/Desktop/csharp27/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.dll
+/Users/bradleywilson/Desktop/csharp27/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.pdb
+/Users/bradleywilson/Desktop/csharp27/StaticExercise/StaticExercise/obj/Debug/netcoreapp3.1/StaticExercise.genruntimeconfig.cache
